@@ -1,0 +1,22 @@
+ .nav-link-hover:hover {
+    color: white!important;
+} 
+
+.carousel-item {
+    width: 100%;
+    height: 90vh;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.border-red {
+    border: 2px solid red;
+}
+
+.card-section {
+    height: 500px;
+}
